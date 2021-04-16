@@ -2,8 +2,16 @@
 
 ## Script Post
 
-Como Consumir API's (que não necessitam de autenticação) de maneira facil em Python.
+Como Consumir API's (Públicas) de maneira fácil em Python e converter em Data Frame Pandas.
 
 
-Link Repositório:
-Link Portfólio:
+Perfil Github: https://github.com/kilerhg
+
+Link Repositório: https://github.com/kilerhg/linkedin_publics
+
+Link Portfólio: https://lucasnunes.me
+
+
+## Screenshot
+
+![foto](./kilerhg.png)
