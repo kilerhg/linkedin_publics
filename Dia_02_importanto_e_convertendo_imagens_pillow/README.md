@@ -14,4 +14,4 @@ Link Portfólio: https://lucasnunes.me
 
 ## Screenshot
 
-![foto](./kilerhg.png)
+![foto](./pillow.png)
