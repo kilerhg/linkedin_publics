@@ -18,4 +18,6 @@ destino = './pasta_destino/'
 # Um laço para salvar os arquivos em sua nova estensão
 for arquivo in arquivos:
     image = Image.open(f'{origem}{arquivo}') # Retorna a imagem aberta
-    image.save(f'{destino}{arquivo[:-4]}.estensao_desejada') # Salva a imagem em sua nova estensão
+    image.save(f'{destino}{arquivo[:-(len(image.format)+1)]}.estensao_desejada') # Salva a imagem em sua nova estensão
+
+    print(len(image.format)+1)
