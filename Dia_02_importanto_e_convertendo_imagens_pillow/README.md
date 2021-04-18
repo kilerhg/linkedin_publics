@@ -1,9 +1,12 @@
 # Dia 02
 
+---
 ## Script Post
 
-Como Consumir API's (Públicas) de maneira fácil em Python e converter em Data Frame Pandas.
+No #aprendi de hoje Iremos aprender como Converter Várias Imagens Utilizando Python, com as Bibliotecas Pillow & os.
 
+
+#python #pillow #networking #data
 
 Perfil Github: https://github.com/kilerhg
 
@@ -11,6 +14,7 @@ Link Repositório: https://github.com/kilerhg/linkedin_publics
 
 Link Portfólio: https://lucasnunes.me
 
+---
 
 ## Screenshot
 
