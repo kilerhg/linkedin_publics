@@ -8,5 +8,6 @@
 > - [ ] Demonstrando README perfil
 > - [ ] Demonstrando README Python
 > - [ ] Demonstrando Projetos
+> - [ ] Pdf Pitch Pessoal
 > - [ ] Conversores (Imagem, vídeo, áudio)
 > - [ ] Reconhecimento de voz (áudio para texto)
