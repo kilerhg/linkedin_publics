@@ -8,5 +8,6 @@
 > - [ ] Demonstrando README perfil
 > - [ ] Demonstrando README Python
 > - [ ] Demonstrando Projetos
-> - [ ] Conversores (Imagem, vídeo, áudio)
+> - [ ] Testando Velocidade internet
+> - [ ] Conversores (Imagem X, vídeo, áudio)
 > - [ ] Reconhecimento de voz (áudio para texto)
