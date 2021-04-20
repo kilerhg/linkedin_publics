@@ -12,3 +12,4 @@
 > - [ ] Pdf Pitch Pessoal
 > - [ ] Reconhecimento de voz (áudio para texto)
 > - [ ] Waka time repo
+> - [ ] TextBlob
