@@ -1,7 +1,7 @@
 # Dia 06
 
 ---
-## [Link Linkedin Post]()
+## [Link Linkedin Post](https://www.linkedin.com/posts/lucasnunesdeassis_python-networking-data-activity-6790719508609843201-QN67)
 ---
 ---
 ## Script Post
