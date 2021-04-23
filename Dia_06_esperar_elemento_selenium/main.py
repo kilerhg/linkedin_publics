@@ -30,10 +30,9 @@ WebDriverWait(nome_driver, tempo_maximo_espera).until(
         ) 
 
 # Continuação da Automação
-
 fonte_pagina = Selector(text=nome_driver.page_source)
 
 nome_objeto = fonte_pagina.xpath('//h4[@class="et_pb_module_header"]/a/@href').getall()
 
-print(nome_objeto)
+        print(nome_objeto)
 
