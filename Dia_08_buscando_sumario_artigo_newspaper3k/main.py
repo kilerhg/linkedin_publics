@@ -4,8 +4,9 @@
 # Importando bibliotecas
 from newspaper import Article
 
+
 # Recebendo url artigo
-url = 'https://g1.globo.com/bemestar/vacina/noticia/2021/04/23/tomei-vacina-contra-covid-devo-fazer-teste-para-saber-se-estou-protegido-veja-duvidas-sobre-o-pos-vacinacao.ghtml'
+url = 'https://edition.cnn.com/2021/04/24/us/derek-chauvin-eyes-indifference-blake/index.html'
 
 # Definindo classe artigo para variável
 artigo = Article(url, language='pt')
@@ -21,6 +22,43 @@ titulo = artigo.title
 # Recebe o conteúdo do Sumário
 sumario = artigo.summary
 # TEXTO DO SUMÁRIO
+
+# Continuação Amanhã falando sobre como extrair sentimento do sumário ;)'
+
+# Definindo classe artigo para variável
+artigo = Article(url, language='pt')
+
+artigo.download() # Baixa o artigo
+artigo.parse() # Raspa o site, buscando artigo
+artigo.nlp() # Separa o sumário & Palavras Chaves
+
+# Recebe o conteúdo do Titulo
+titulo = artigo.title
+# TEXTO DO TITULO
+
+# Recebe o conteúdo do Sumário
+sumario = artigo.summary
+# TEXTO DO SUMÁRIO
+
+# Continuação Amanhã falando sobre como extrair sentimento do sumário ;)'
+
+# Definindo classe artigo para variável
+artigo = Article(url, language='pt')
+
+artigo.download() # Baixa o artigo
+artigo.parse() # Raspa o site, buscando artigo
+artigo.nlp() # Separa o sumário & Palavras Chaves
+
+# Recebe o conteúdo do Titulo
+titulo = artigo.title
+# TEXTO DO TITULO
+
+# Recebe o conteúdo do Sumário
+sumario = artigo.summary
+# TEXTO DO SUMÁRIO
+
+
+print(sumario)
 
 # Continuação Amanhã falando sobre como extrair sentimento do sumário ;)
 
