@@ -1,0 +1,11 @@
+Posts Linkedin ToDoBook:
+
+1* Introduzindo Conceito, Demonstrar que tem sequencia, demostrar um pouco do site, Dar enfaze que é Open-Source:
+	* Home Page
+	* Conceito
+
+2 * Dar continuidade Demostrar login e pesquisa
+
+3 * dar continuidade & demonstrar Biblioteca
+
+4 * Demo completa
