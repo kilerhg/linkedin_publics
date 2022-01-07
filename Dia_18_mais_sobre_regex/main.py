@@ -14,8 +14,8 @@ dict_pattern_regex = {
     'date_time':r"^\d{2}\/\d{2}\/\d{4} \d{2}:\d{2}$",
     'ipv4':r"^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$",
     'url':r"^(http|https):\/\/[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(([0-9]{1,5})?\/.*)?$",
-    'name':r"^[a-zA-Z\s]+$",
-    'full_name':r"^[a-zA-Z\sáàâãéèêíïóôõöúçñÁÀÂÃÉÈÍÏÓÔÕÖÚÇÑ\s]+$",
+    'name':r"^[a-zA-Zà-úÀ-Ú]]+$",
+    'full_name':r"^[a-zA-Zà-úÀ-Ú]\s]+$",
     'html_tag':r"/^<([a-z1-6]+)([^<]+)*(?:>(.*)<\/\1>| *\/>)$/",
     'hex_color':r"/^#?([a-fA-F0-9]{6}|[a-fA-F0-9]{3})$/",
 }
@@ -28,7 +28,6 @@ value_input = str(input('Value: ')).strip()
 option_regex_pattern = str(input('Option_Pattern: ')).strip().lower()
 
 if option_regex_pattern in dict_pattern_regex.keys():
-
 
     regex_pattern = dict_pattern_regex[option_regex_pattern]
 
