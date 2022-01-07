@@ -24,7 +24,7 @@ dict_pattern_regex = {
 # CPF: 000.000.000-00
 value_input = str(input('Value: ')).strip()
 
-# cpf
+# CPF
 option_regex_pattern = str(input('Option_Pattern: ')).strip().lower()
 
 if option_regex_pattern in dict_pattern_regex.keys():
