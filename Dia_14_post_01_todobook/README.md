@@ -80,13 +80,11 @@
 ---
 ## Script Post
 
-⏱ Post 3/4
-
-
 🐍📚 Gestor de Livros em Python, Olá ;), Demonstrando o lado da biblioteca e gestão de seus livros hoje venho dando continuação na saga de posts do "To Do Book" ;). Se quiser testar o link está logo abaixo ;).
 
+⏱ Post 3/4
 
-↩️ Post Anterior: https://www.linkedin.com/posts/lucasnunesdeassis_anota%C3%A7%C3%B5es-python-activity-6793313787886878720-auLq
+↩️ Post Anterior: https://www.linkedin.com/posts/lucasnunesdeassis_login-pesquisa-todo-book-activity-6851487632174718977-nGhZ
 
 
 ℹ️ To Do Book: https://apptodobook.herokuapp.com/
