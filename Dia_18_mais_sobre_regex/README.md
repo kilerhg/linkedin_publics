@@ -1,7 +1,7 @@
 # Dia 18
 
 ---
-## [Link Linkedin Post]()
+## [Link Linkedin Post](https://www.linkedin.com/posts/lucasnunesdeassis_python-networking-data-activity-6885252077518487552-FuWn?utm_source=linkedin_share&utm_medium=member_desktop_web)
 ---
 ---
 ## Script Post
